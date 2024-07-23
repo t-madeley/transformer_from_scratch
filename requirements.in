@@ -1,0 +1,15 @@
+black
+click
+ipykernel
+ipython_memory_usage
+isort
+loguru
+matplotlib
+numpy
+pandas
+pyarrow
+pydocstyle
+pytest-cov
+tensorflow==2.13.0
+keras==2.13.1
+seaborn
