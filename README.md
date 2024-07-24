@@ -5,29 +5,11 @@
 Hi there, thank you for taking the time to read my submission. I will briefly summarise my approach and attempt to explain
 some of the decision-making process and tradeoffs made. 
 
-
-## Task
-
-
-# Solution
-
-
-
-
-The project also includes uses `pip-compile` for dependency management, instructions for setting up your environment 
-can be found below. 
-
-## Process
-
-
-# Instructions
-
-
-## Package usage
+All task related work has been completed within the `Prevayl Technical Task.ipynb` with complete annotation and discussion. 
 
 ## Set up and installation
 
-We have created a `Makefile` to house some helpful commands to manage dependencies and set up a suitable Conda environment. 
+We have created a `Makefile` to house some helpful commands to manage dependencies and set up a suitable Conda environment and IPYKernel. 
 
 You must have some form of Conda installed for this to work. 
 
@@ -54,5 +36,3 @@ This will use pip-tools to search for compatible versions of all dependencies, t
 
 **Note** Make sure you set up a suitable conda environment using the instructions above first. 
 
-
-# If I Had More Time...
